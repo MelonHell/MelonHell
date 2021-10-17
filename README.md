@@ -1,9 +1,6 @@
 ### Привет 👋
 
- [![MelonHell's github stats](https://github-readme-stats.vercel.app/api?username=MelonHell&theme=dracula&show_icons=true)](https://github.com/MelonHell)
- 
-### На данный момент я разрабатываю Minecraft лаунчер
-[![Meloncher Card](https://github-readme-stats.vercel.app/api/pin/?username=MelonHell&repo=Meloncher&theme=dracula)](https://github.com/MelonHell/Meloncher)
+ [![MelonHell's github stats](https://github-readme-stats.vercel.app/api?username=MelonHell&locale=ru&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&icon_color=fff)](https://github.com/MelonHell)
 
 <!--
 **MelonHell/MelonHell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
